@@ -1,0 +1,2 @@
+# Papatya-
+Yapay Zeka 
